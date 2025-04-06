@@ -5,6 +5,7 @@
 * My role was to transform raw data into professional-quality reports and dashboards to track KPIs.
 * compare regional performance, analyze product-level trends, and identify high-value customers.
 
-![Uploading Screenshot 2025-04-06 181041.png…]()
+![image](https://github.com/user-attachments/assets/82012fe0-22ee-4cd3-8aad-405e0e0a033a)
+
 
 
