@@ -4,7 +4,7 @@
 * Where I played the role of Business Intelligence Analyst for AdventureWorks Cycles, a fictional manufacturing company.
 * My role was to transform raw data into professional-quality reports and dashboards to track KPIs.
 * compare regional performance, analyze product-level trends, and identify high-value customers.
-
+* Here is the main dashboard of the Project:
 ![image](https://github.com/user-attachments/assets/82012fe0-22ee-4cd3-8aad-405e0e0a033a)
 
 
